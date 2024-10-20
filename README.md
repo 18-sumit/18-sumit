@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
-![Web3](https://img.shields.io/badge/-WEB3-E44F26?logo=web3.js&logoColor=white&style=for-the-badge)
+
 
 ---
 
@@ -52,7 +52,7 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, SQL
 - **Tools**: Git, GitHub, Postman, Redux, Context API
-- **Other Interests**: AI/ML, Data Science
+- **Other Interests**:Web 3
 
 ---
 
@@ -69,8 +69,9 @@
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/sumit-singh-721aa1254/)
-- [GitHub](https://github.com/18-sumit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-singh-721aa1254/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/18-sumit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SUMITSI52826592)
 
 ---
 
