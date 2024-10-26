@@ -57,10 +57,9 @@
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=18-sumit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=18-sumit&theme=tokyonight&hide_border=true&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18-sumit&show_icons=true&theme=tokyonight&hide_border=true&v=2)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18-sumit&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=18-sumit&color=blue&style=flat)
