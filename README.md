@@ -1,18 +1,23 @@
 # Hi there, I'm Sumit Singh 👋
 
-### Full-Stack MERN Developer   | Web3 Learner
+### Full-Stack MERN Developer | Web3 Learner
 
 ---
 
 ### 🧑‍💻 About Me:
 - 🔭 Currently pursuing **B.E. in Computer Science** at Lokmanya Tilak College of Engineering (2022-2026).
-- 🌱 Continuously improving my skills in **React**, **Node.js**, **MongoDB**, **SQL** & **WEB3**.
-- 🤝 Collaborating with a team on **Smart India Hackathon 2024**, developing a comprehensive job portal platform.
-- 🚀 Interested in **web development**, **WEB3**.
+- 🌱 Continuously improving skills in **React**, **Node.js**, **MongoDB**, **SQL**, and **WEB3**.
+- 🤝 Collaborating on **Smart India Hackathon 2024**, developing a comprehensive job portal platform.
+- 🚀 Passionate about **web development** and exploring **WEB3** technologies.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Skills:
+- **Frontend**: HTML5, CSS3, JavaScript, React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, SQL
+- **Tools**: Git, GitHub, Postman, Redux, Context API
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -21,15 +26,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
 
-
 ---
 
 ### 💼 Experience:
 - **Frontend Developer Intern** @ Bhart Intern _(Jan 10 - Feb 10, 2024)_
-  - Developed a **Weather Application** and a **Netflix front-end clone**.
+  - Developed a **Weather Application** and a **Netflix front-end clone**, enhancing user engagement and UI experience.
   
-- Built **CampusHub**, a dynamic web application for students.
-- Created a **Weather Forecasting App** using APIs.
+- Built **CampusHub**, a dynamic web application for students, improving campus communication.
+- Created a **Weather Forecasting App** using APIs, gaining hands-on experience with external data.
 
 ---
 
@@ -42,28 +46,14 @@
   - Theme Switcher with local storage integration.
   - Project using **React Router**.
   
-- **Mega Blog App (Ongoing)**:
-  - A large-scale blog application using **React**.
+- **Mega Blog App (Ongoing)**: A large-scale blog application using **React**.
 
 ---
 
-### 🛠️ Skills:
-- **Frontend**: HTML5, CSS3, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, SQL
-- **Tools**: Git, GitHub, Postman, Redux, Context API
-- **Other Interests**:Web 3
-
----
-
-### 🔥 GitHub Streak
+### 🔥 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=18-sumit&theme=tokyonight&hide_border=true&v=2)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=18-sumit&show_icons=true&theme=tokyonight&hide_border=true&v=2)
-
-
-### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=18-sumit&color=blue&style=flat)
-
 
 ---
 
@@ -76,6 +66,5 @@
 
 ### ⚡ Fun Facts:
 - 🏏 Big fan of **cricket**.
-- 🏞️ Love **trekking** and **traveling**.
-- 🎯 Always up for new challenges and collaborations.
-
+- 🏞️ Enjoy **trekking** and **traveling**.
+- 🎯 Always eager for new challenges and collaborations.
