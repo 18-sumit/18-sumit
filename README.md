@@ -45,8 +45,9 @@
   - Currency Converter.
   - Theme Switcher with local storage integration.
   - Project using **React Router**.
-  
-- **Mega Blog App (Ongoing)**: A large-scale blog application using **React**.
+
+- **[Mega Blog App](https://github.com/18-sumit/12MegaBlog)**: A large-scale blog application using **React**.
+
 
 ---
 
