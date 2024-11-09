@@ -3,11 +3,14 @@
 ### Full-Stack MERN Developer | Web3 Learner
 
 ---
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-singh-721aa1254/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/18-sumit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SUMITSI52826592)
 
 ### 🧑‍💻 About Me:
 - 🔭 Currently pursuing **B.E. in Computer Science** at Lokmanya Tilak College of Engineering (2022-2026).
 - 🌱 Continuously improving skills in **React**, **Node.js**, **MongoDB**, **SQL**, and **WEB3**.
-- 🤝 Collaborating on **Smart India Hackathon 2024**, developing a comprehensive job portal platform.
 - 🚀 Passionate about **web development** and exploring **WEB3** technologies.
 
 ---
@@ -28,16 +31,10 @@
 
 ---
 
-### 💼 Experience:
-- **Frontend Developer Intern** @ Bhart Intern _(Jan 10 - Feb 10, 2024)_
-  - Developed a **Weather Application** and a **Netflix front-end clone**, enhancing user engagement and UI experience.
-  
+### 🚀 Projects:
 - Built **CampusHub**, a dynamic web application for students, improving campus communication.
 - Created a **Weather Forecasting App** using APIs, gaining hands-on experience with external data.
 
----
-
-### 🚀 Projects:
 - **[React Projects Repository](https://github.com/18-sumit/React)**:
   - Counter that counts on click.
   - Background Changer.
@@ -60,14 +57,5 @@
 
 ---
 
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-singh-721aa1254/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/18-sumit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SUMITSI52826592)
 
 ---
-
-### ⚡ Fun Facts:
-- 🏏 Big fan of **cricket**.
-- 🏞️ Enjoy **trekking** and **traveling**.
-- 🎯 Always eager for new challenges and collaborations.
