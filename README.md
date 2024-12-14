@@ -1,79 +1,71 @@
-# Hi there, I'm Sumit Singh 👋
+# **Hi there, I'm Sumit Singh 👋**
 
-### Full-Stack MERN Developer 
-
----
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-singh-721aa1254/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/18-sumit)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SUMITSI52826592)
-
-### 🧑‍💻 About Me:
-- 🔭 Currently pursuing **B.E. in Computer Science** at Lokmanya Tilak College of Engineering (2022-2026).
-- 🌱 Continuously improving skills in **React**, **Node.js**, **MongoDB**, **SQL**, and **WEB3**.
-- 🚀 Passionate about **web development** and exploring **WEB3** technologies.
+### **Full-Stack MERN Developer | Web3 Enthusiast**
 
 ---
 
-<h3 align="center">Technologies  👨‍💻</h3>
+### 📫 **Connect with Me**  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumit-singh-721aa1254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/18-sumit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/SUMITSI52826592" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+ <a href="mailto:sumitsingh@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-###
+---
+<h3 align="center">🔥 GitHub Streak Stats</h3>  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="30" alt="appwrite logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="18" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img src="https://streak-stats.demolab.com?user=18-sumit&theme=radical&hide_border=true" height="150" alt="GitHub Streak Stats" />
 </div>
 
-###
+<h3 align="center">GitHub Stats 📊</h3>  
 
-### 🚀 Projects:
-- Built **CampusHub**, a dynamic web application for students, improving campus communication.
-- Created a **Weather Forecasting App** using APIs, gaining hands-on experience with external data.
-
-- **[React Projects Repository](https://github.com/18-sumit/React)**:
-  - Counter that counts on click.
-  - Background Changer.
-  - Password Generator.
-  - Currency Converter.
-  - Theme Switcher with local storage integration.
-  - Project using **React Router**.
-
-- **[Mega Blog App](https://github.com/18-sumit/12MegaBlog)**: A large-scale blog application using **React**.
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=18-sumit&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-sumit&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
+</div>
 
 ---
 
-<h3 align="center">GitHub Stats  📈</h3>
+### 🧑‍💻 **About Me**
+- 🔭 Pursuing **B.E. in Computer Science** at Lokmanya Tilak College of Engineering (2022-2026).  
+- 🌱 Learning and improving skills in **React**, **Node.js**, **MongoDB**, **SQL**, and exploring **Web3** technologies.  
+- 🚀 Passionate about **web development** and solving real-world problems through technology.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=18-sumit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=18-sumit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=18-sumit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">Technologies & Tools 🛠️</h3>
 
-##
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,mysql,appwrite,github" height="40" alt="Tech Stack Icons"/>
+</p>
+
+---
+
+### 🚀 **Projects**  
+- **CampusHub**: A dynamic web application for improving campus communication among students.  
+- **Weather Forecasting App**: Built with APIs, providing real-time weather updates using external data.  
+- **[React Projects Repository](https://github.com/18-sumit/React)**:  
+  - Counter that counts on click.  
+  - Background Changer.  
+  - Password Generator.  
+  - Currency Converter.  
+  - Theme Switcher with local storage integration.  
+  - Project using **React Router**.  
+- **[Mega Blog App](https://github.com/18-sumit/12MegaBlog)**: A feature-rich blogging platform built with **React**.
+
+---
+
+### ✨ **Open to Contributions & Collaboration**
+I’m eager to contribute to impactful open-source projects and collaborate with others to build innovative solutions.
+
+---
