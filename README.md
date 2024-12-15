@@ -12,7 +12,7 @@
   <a href="https://github.com/18-sumit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://x.com/SUMITSI52826592" target="_blank">
+  <a href="https://x.com/sumitdotdev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
  <a href="mailto:sumitsingh@example.com" target="_blank">
