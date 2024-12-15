@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/sumit-singh-721aa1254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/18-sumit" target="_blank">
+  <a href="https://github.com/18-sumit" target="">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://x.com/sumitdotdev" target="_blank">
+  <a href="https://x.com/sumitdotdev" target="">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
- <a href="mailto:sumitsingh@example.com" target="_blank">
+ <a href="mailto:sumitsingh3076@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
