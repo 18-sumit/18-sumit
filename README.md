@@ -36,10 +36,22 @@
 
 ---
 
-### 🧑‍💻 **About Me**
-- 🔭 Pursuing **B.E. in Computer Science** at Lokmanya Tilak College of Engineering (2022-2026).  
-- 🌱 Learning and improving skills in **React**, **Node.js**, **MongoDB**, **SQL**, and exploring **Web3** technologies.  
-- 🚀 Passionate about **web development** and solving real-world problems through technology.
+### **🧑‍💻 About Me**
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 Pursuing <b>B.E. in Computer Science</b> at Lokmanya Tilak College of Engineering (2022-2026).</li>
+        <li>🌱 Learning and improving skills in <b>React</b>, <b>Node.js</b>, <b>MongoDB</b>, <b>SQL</b>, and exploring <b>Web3</b> technologies.</li>
+        <li>🚀 Passionate about <b>web development</b> and solving real-world problems through technology.</li>
+      </ul>
+    </td>
+    <td>
+      <img align="center" alt="Coding" width="325" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
