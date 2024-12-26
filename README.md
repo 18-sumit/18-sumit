@@ -1,6 +1,6 @@
 # **Hi there, I'm Sumit Singh 👋**
 
-### **Full-Stack MERN Developer | Web3 Enthusiast**
+### **Full-Stack MERN Developer**
 
 ---
 
@@ -36,6 +36,14 @@
 
 ---
 
+<h3 align="center">Technologies & Tools 🛠️</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,mysql,appwrite,github" height="40" alt="Tech Stack Icons"/>
+</p>
+
+---
+
 ### **🧑‍💻 About Me**
 
 <table>
@@ -55,29 +63,6 @@
 
 ---
 
-<h3 align="center">Technologies & Tools 🛠️</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,mysql,appwrite,github" height="40" alt="Tech Stack Icons"/>
-</p>
-
----
-
-### 🚀 **Projects**  
-- **CampusHub**: A dynamic web application for improving campus communication among students.  
-- **Weather Forecasting App**: Built with APIs, providing real-time weather updates using external data.  
-- **[React Projects Repository](https://github.com/18-sumit/React)**:  
-  - Counter that counts on click.  
-  - Background Changer.  
-  - Password Generator.  
-  - Currency Converter.  
-  - Theme Switcher with local storage integration.  
-  - Project using **React Router**.  
-- **[Mega Blog App](https://github.com/18-sumit/12MegaBlog)**: A feature-rich blogging platform built with **React**.
-
----
-
 ### ✨ **Open to Contributions & Collaboration**
 I’m eager to contribute to impactful open-source projects and collaborate with others to build innovative solutions.
 
----
