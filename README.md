@@ -31,7 +31,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18-sumit&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-sumit&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-sumit&layout=compact&theme=radical&langs_count=8" 
+  height="150" 
+  alt="Most Used Languages" 
+/>
+
 </div>
 
 ---
