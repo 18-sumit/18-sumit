@@ -37,13 +37,6 @@
 ---
 
 <div align="center">
-  <h2>⏰ WakaTime Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=18-sumit&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" height="150" alt="WakaTime Stats" />
-</div>
-
----
-
-<div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,mysql,appwrite,github" height="40" alt="Tech Stack Icons"/>
@@ -51,14 +44,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>🐍 Contributions</h2>
-  <img src="https://raw.githubusercontent.com/18-sumit/18-sumit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
   <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.2); max-width: 800px; margin: 0 auto;">
